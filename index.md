@@ -1,3 +1,18 @@
-# My Repo
+---
+layout: default
+---
 
-# Hello All
+![avatar](CUBS.png)
+
+# SweetCow
+
+- - -
+
+## Chicago Cubs
+2016 world series champion 
+
+
+- - -
+
+## New Friends
+
