@@ -17,3 +17,6 @@ layout: default
 ## New Friends
 
 [nondayo](https://nondayo.github.io/myrepo/)
+
+[kirby](https://zbryikt.github.io/myrepo2/)
+
